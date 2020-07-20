@@ -1,0 +1,10 @@
+{
+  "Author": "Caraxi",
+  "Name": "HTTPAction",
+  "Description": "Send and Execute a Macro By HTTP Requests. /macrohttp [start] [stop] [restart] [port]",
+  "InternalName": "HTTPAction",
+  "AssemblyVersion": "0.9.0.0",
+  "ApplicableVersion": "any",
+  "Tags": [ "Macro","HTTP","KeyPress" ],
+  "DalamudApiLevel": 1
+}
